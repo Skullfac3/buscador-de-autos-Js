@@ -14,7 +14,7 @@ HTML5: Estructura semántica.
 Tailwind CSS: Estilos responsivos y modernos.
 JavaScript puro: Filtrado dinámico y manejo de eventos.
 
-Demo
+Demo:
 Prueba el buscador en vivo: buscador-de-autos-con-js.netlify.app
 
 ![image](https://github.com/user-attachments/assets/7c709462-2a27-457e-add4-3da8b149d448)
@@ -24,14 +24,14 @@ Prueba el buscador en vivo: buscador-de-autos-con-js.netlify.app
 
 
 
-Instalación
+Instalación:
 
 Clona el repositorio:git clone https://github.com/tu-usuario/tu-repositorio.git
 
 
 Abre index.html en un navegador o usa un servidor local (ej. npx serve).
 
-Contacto
+Contacto:
 Conecta conmigo en LinkedIn: https://www.linkedin.com/in/erick-baltazar/
 
 O revisa mi portafolio.
